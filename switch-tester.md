@@ -7,6 +7,9 @@
 - ergo = Gateron red spring
 - heavy = Cherry MX clear spring
 
+**NOTES**
+The straight Super Lube grease is too thick, it makes the switch feel slow and gummy. Will try a miss of Super Lube grease / Super Lube oil next.
+
 
 ```
 ,-----------------------------------------------------------------------------------------------------------.
